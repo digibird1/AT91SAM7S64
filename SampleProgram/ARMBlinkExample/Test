@@ -1,0 +1,1 @@
+arm-none-eabi-objcopy -O binary blink.elf blink.bin
